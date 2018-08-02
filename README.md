@@ -1,5 +1,7 @@
 # sanitize-html
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/punkave--sanitize-html.svg)](https://www.staging.guardrails.io)
+
 <a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/sanitize-html/master/logos/logo-box-madefor.png" align="right" /></a>
 
 `sanitize-html` provides a simple HTML sanitizer with a clear API.

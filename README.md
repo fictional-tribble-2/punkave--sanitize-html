@@ -1,6 +1,6 @@
 # sanitize-html
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/punkave--sanitize-html.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/punkave--sanitize-html.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/punkave--sanitize-html.svg)](https://www.guardrails.io)
 
 <a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/sanitize-html/master/logos/logo-box-madefor.png" align="right" /></a>
 
